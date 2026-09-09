@@ -1,6 +1,6 @@
 #ifndef UTILITIES_H
 #define UTILITIES_H
-
-int add(int a, int b);  // placeholder example
+// Adding comments
+int add(int a, int b){return a+b;}  // placeholder example
 
 #endif
